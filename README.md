@@ -11,13 +11,13 @@
 In 2022, I decided to pause my professional career to pursue a volunteer opportunity. I've had the privilege of volunteering at BAPS Swaminarayan Akshardham. Over 14 months, I contributed to building the second-largest Hindu Temple in the world. You can read more about my journey on my [Medium Page](https://medium.com/@pratikspatel813/akshardham-my-volunteering-journey-47ec08f17e9d).
 
 ### Work Experience
-Business Intelligence Analyst @ NielsenIQ  
-Project Management Organization Co-op @ Johnson & Johnson
+Business Intelligence Analyst @ NielsenIQ (_June 2021 - June 2022_)  
+Project Management Organization Co-op @ Johnson & Johnson (_January 2020 - July 2020_)
 
 ### Education
-Rutgers University - Mathematics, BA
+Rutgers University - Mathematics, BA (_December 2020_)
 
 ### Socials
-[LinkedIn](https://www.linkedin.com/in/pratikspatel813/)
-[Medium](https://medium.com/@pratikspatel813)
+[LinkedIn](https://www.linkedin.com/in/pratikspatel813/)  
+[Medium](https://medium.com/@pratikspatel813)  
 [pratikspatel813@gmail.com](mailto:pratikspatel813@gmail.com)
