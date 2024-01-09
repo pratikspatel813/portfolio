@@ -10,14 +10,18 @@
 ![](images/1_3Waem_c_DkURYLhriwkrOQ.png)
 
 [Google Capstone Project](https://github.com/pratikspatel813/Divvy-Data-Project)  
-- Applied data analytics skills and tools such as R, Tableau, and Excel for a Google Data Analytics Certificate capstone project.  
+- Applied data analytics skills and tools like R, Tableau, and Excel for a Google Data Analytics Certificate capstone project.  
 - Discovered metrics such as the count of paid members (3 million) and the average sum of ride frequency per day (800 minutes).  
-- Data wrangled with 12 different data sources into a consolidated dataset for analysis.  
+- Data wrangled with 12 different data sources into a consolidated dataset for analysis.
+
+#### Tableau Dashboard
+![](images/Dashboard1.png)
 
 [Apple App Store Analysis](https://github.com/pratikspatel813/AppleAppStore-Project)
 - SQL Project focusing on exploratory analysis to discover trends in the Apple App Store.  
 - Discovered a correlation between App Description and Rating. The lengthier the description, the higher the rating.  
 
+![](https://developer.apple.com/news/images/og/app-store-og-twitter.png)
 
 ### Leadership & Volunteer Experience
 In 2022, I decided to pause my professional career to pursue a volunteer opportunity. I've had the privilege of volunteering at BAPS Swaminarayan Akshardham. Over 14 months, I contributed to building the second-largest Hindu Temple in the world. You can read more about my journey on my [Medium Page](https://medium.com/@pratikspatel813/akshardham-my-volunteering-journey-47ec08f17e9d).
