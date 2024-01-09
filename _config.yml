@@ -2,8 +2,4 @@ title: Pratik Patel
 logo: images/20C8501D-0C63-44CC-9828-C2E50345EC08.jpeg
 #description: text below image
 #show_downloads: true
- assets: 
-     disableHLJS: true 
-     favicon: images/icons8-analytics-32.png
-theme: jekyll-theme-minimal
-
+theme: jekyll-theme-minimald
