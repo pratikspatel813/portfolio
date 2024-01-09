@@ -1,12 +1,12 @@
 # Data Analyst
 
-### Education
-Mathematics, BA
+### Projects
+IMDb Top 1000  
+Google Capstone Project
 
 ### Work Experience
-Data Analyst @ NielsenIQ
+Data Analyst @ NielsenIQ  
 Project Management Organization Co-op @ Johnson & Johnson
 
-### Projects
-IMDb Top 1000
-Google Capstone Project
+### Education
+Mathematics, BA
