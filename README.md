@@ -4,7 +4,10 @@
 ### Projects
 [IMDb Top 1000](https://github.com/pratikspatel813/Movies-Project)  
 - Queried through 1000 data points to determine the genre combination, Action & Adventure, as the formula for high-grossing films.  
-- Utilized Python libraries such Pandas, Matplotlib, & Seaborn to clean and visualize the data.  
+- Utilized Python libraries such Pandas, Matplotlib, & Seaborn to clean and visualize the data.
+
+#### Total Gross by Top 5 Directors
+![](images/1_3Waem_c_DkURYLhriwkrOQ.png)
 
 [Google Capstone Project](https://github.com/pratikspatel813/Divvy-Data-Project)  
 - Applied data analytics skills and tools such as R, Tableau, and Excel for a Google Data Analytics Certificate capstone project.  
