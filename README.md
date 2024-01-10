@@ -37,5 +37,5 @@ Rutgers University - Mathematics, BA (_December 2020_)
 ### Socials
 [LinkedIn](https://www.linkedin.com/in/pratikspatel813/)  
 [Medium](https://medium.com/@pratikspatel813)  
-[Tableau Vizzes](https://public.tableau.com/app/profile/pratikspatel813/vizzes)
+[Tableau Vizzes](https://public.tableau.com/app/profile/pratikspatel813/vizzes)  
 [pratikspatel813@gmail.com](mailto:pratikspatel813@gmail.com)
