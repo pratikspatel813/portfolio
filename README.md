@@ -23,6 +23,8 @@
 
 ![](https://developer.apple.com/news/images/og/app-store-og-twitter.png)
 
+#### **NEW PROJECTS COMING SOON** 
+
 ### Leadership & Volunteer Experience
 In 2022, I decided to pause my professional career to pursue a volunteer opportunity. I've had the privilege of volunteering at BAPS Swaminarayan Akshardham. Over 14 months, I contributed to building the second-largest Hindu Temple in the world. You can read more about my journey on my [Medium Page](https://medium.com/@pratikspatel813/akshardham-my-volunteering-journey-47ec08f17e9d).
 ![BAPS Swaminarayan Aksharhdam, Robbinsville, NJ](images/Desktop_02.png)
